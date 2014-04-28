@@ -7,3 +7,4 @@ https://class.coursera.org/ml-005/
 - Regularization (Week 3)
 - Neural Networks: Representation (Week 4)
 - Neural Networks: Learning (Week 5)
+- Advice for Applying Machine Learning (Week 6)
