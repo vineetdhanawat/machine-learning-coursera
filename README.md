@@ -8,3 +8,4 @@ https://class.coursera.org/ml-005/
 - Neural Networks: Representation (Week 4)
 - Neural Networks: Learning (Week 5)
 - Advice for Applying Machine Learning (Week 6)
+- Support Vector Machines (Week 7)
